@@ -1,0 +1,963 @@
+// 20230303163011
+// https://api.les-aides.fr/aides/?idc=831397afee5eed2da6c1dd4f0dbcccf6b3a88e69&siret=84874656600019&domaine=[893,%20813]
+
+{
+  "idr": 17273547,
+  "depassement": false,
+  "nb_dispositifs": 44,
+  "dispositifs": [
+    {
+      "numero": 68652,
+      "nom": "Amortisseur électricité",
+      "resume": "<p>L'amortisseur d'électricité prend la forme d'une réduction de prix qui sera automatiquement et directement décompté de la facture d’électricité de l’entreprise.</p>",
+      "organisme": 29,
+      "sigle": "DDFIP",
+      "revision": "2.02",
+      "generation": "2022-11-24",
+      "validation": "2023-03-02",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/aGUvIHxkwmxD4y8XJzVH/ddfip/amortisseur-electricite.html",
+      "aps": false,
+      "domaines": [
+        893,
+        818
+      ],
+      "moyens": [
+        837
+      ]
+    },
+    {
+      "numero": 69357,
+      "nom": "Investissements d’écoconception pour améliorer la performance environnementale",
+      "resume": "<p>L’ADEME contribue à la production et à la commercialisation d’un nouveau produit ou service écoconçu.</p>",
+      "organisme": 46,
+      "sigle": "ADEME",
+      "revision": "1.04",
+      "generation": "2023-03-01",
+      "validation": "2023-03-01",
+      "nouveau": true,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/aTV_IHxkwmxD4y8XJzVH/ademe/investissements-d-ecoconception-pour-ameliorer-la-performance-environnementale.html",
+      "aps": false,
+      "domaines": [
+        802,
+        807,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 41272,
+      "nom": "Déduction exceptionnelle : véhicules lourds utilisant des énergies propres",
+      "resume": "<p>Les entreprises qui acquièrent un véhicule lourd neuf, peuvent pratiquer une déduction exceptionnelle (dite &quot;suramortissement&quot;) sur leur résultat imposable.</p>",
+      "organisme": 29,
+      "sigle": "DDFIP",
+      "revision": "4.38",
+      "generation": "2016-01-12",
+      "validation": "2023-02-22",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/QScvIHxkwmxD4y8XJzVH/ddfip/deduction-exceptionnelle-vehicules-lourds-utilisant-des-energies-propres.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        845
+      ]
+    },
+    {
+      "numero": 41742,
+      "nom": "Réduction d'impôt pour mise à disposition d'une flotte de vélos",
+      "resume": "<p>Les entreprises qui mettent à la disposition gratuite de leurs salariés une flotte de vélos peuvent, sous certaines conditions, bénéficier d'une réduction d'impôt.</p>",
+      "organisme": 29,
+      "sigle": "DDFIP",
+      "revision": "3.17",
+      "generation": "2016-02-26",
+      "validation": "2023-02-10",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/QXQvIHxkwmxD4y8XJzVH/ddfip/reduction-d-impot-pour-mise-a-disposition-d-une-flotte-de-velos.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        845
+      ]
+    },
+    {
+      "numero": 57817,
+      "nom": "Prime à la conversion : Acquisition ou location de véhicules peu polluants",
+      "resume": "<p>La prime à la conversion est une aide financière accordée aux entreprises lorsque l’acquisition ou la location du véhicule peu polluant est accompagnée par la mise au rebut d’un véhicule ancien polluant.</p>",
+      "organisme": 1753,
+      "sigle": "ASP",
+      "revision": "17.78",
+      "generation": "2020-05-29",
+      "validation": "2023-02-07",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/V4F_IHxkwmxD4y8XJzVH/asp/prime-a-la-conversion-acquisition-ou-location-de-vehicules-peu-polluants.html",
+      "aps": false,
+      "domaines": [
+        788,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 66912,
+      "nom": "Prime au rétrofit électrique",
+      "resume": "<p>Une aide dite prime au rétrofit électrique est mise en place lorsque le propriétaire du véhicule fait transformer le moteur thermique en moteur électrique.</p>",
+      "organisme": 2028,
+      "sigle": "Ministère de la Transition Ecologique et Solidaire",
+      "revision": "1.59",
+      "generation": "2022-05-04",
+      "validation": "2023-02-07",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/ZpEvIHxkwmxD4y8XJzVH/ministere-de-la-transition-ecologique-et-solidaire/prime-au-retrofit-electrique.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 40776,
+      "nom": "Bonus écologique : Acquisition ou location de véhicules peu polluants",
+      "resume": "<p>Le bonus écologique est une aide financière accordée aux entreprises qui souhaitent acheter ou louer un véhicule automobile terrestre à moteur.</p>",
+      "organisme": 1753,
+      "sigle": "ASP",
+      "revision": "26.96",
+      "generation": "2015-11-03",
+      "validation": "2023-02-07",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/QHdvIHxkwmxD4y8XJzVH/asp/bonus-ecologique-acquisition-ou-location-de-vehicules-peu-polluants.html",
+      "aps": false,
+      "domaines": [
+        788,
+        802,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 68651,
+      "nom": "Bouclier tarifaire",
+      "resume": "<p>Le bouclier tarifaire est élargi aux TPE. L'objectif est de pallier à la forte hausse attendue sur les prix de l'énergie auprès des petites entreprises.</p>",
+      "organisme": 29,
+      "sigle": "DDFIP",
+      "revision": "1.35",
+      "generation": "2022-11-24",
+      "validation": "2023-02-03",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/aGUfIHxkwmxD4y8XJzVH/ddfip/bouclier-tarifaire.html",
+      "aps": false,
+      "domaines": [
+        893,
+        818
+      ],
+      "moyens": [
+        837
+      ]
+    },
+    {
+      "numero": 67025,
+      "nom": "Aide guichet gaz/électricité",
+      "resume": "<p>Dans le cadre du plan de résilience, une aide sous forme de subventions est mise en place pour soutenir les entreprises dont les dépenses de gaz et d’électricité représentent une part élevée des charges.</p>",
+      "organisme": 29,
+      "sigle": "DDFIP",
+      "revision": "5.90",
+      "generation": "2022-05-12",
+      "validation": "2023-02-03",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/ZwJfIHxkwmxD4y8XJzVH/ddfip/aide-guichet-gaz-electricite.html",
+      "aps": false,
+      "domaines": [
+        893,
+        877,
+        818
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 63052,
+      "nom": "Prime énergie - Coup de pouce Chauffage des bâtiments tertiaires",
+      "resume": "<p>Coup de Pouce Chauffage des bâtiments tertiaires a pour objectif de réduire les consommations énergétiques du secteur tertiaire et de chauffer les bâtiments grâce à une énergie renouvelable.</p>",
+      "organisme": 2028,
+      "sigle": "Ministère de la Transition Ecologique et Solidaire",
+      "revision": "2.24",
+      "generation": "2021-08-03",
+      "validation": "2023-02-02",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/YwUvIHxkwmxD4y8XJzVH/ministere-de-la-transition-ecologique-et-solidaire/prime-energie-coup-de-pouce-chauffage-des-batiments-tertiaires.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 147,
+      "nom": "Allocation d'activité partielle de droit commun",
+      "resume": "<p>L’activité partielle est un outil au service de la politique publique de prévention des licenciements économiques qui permet à l’employeur en difficulté de faire prendre en charge tout ou partie du coût de la rémunération de ses salariés.</p>",
+      "organisme": 20,
+      "sigle": "DREETS",
+      "revision": "14.57",
+      "generation": "1993-04-26",
+      "validation": "2023-02-01",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/FH8gfGTCbEPjLxcnNUc/dreets/allocation-d-activite-partielle-de-droit-commun.html",
+      "aps": false,
+      "domaines": [
+        893,
+        877,
+        816
+      ],
+      "moyens": [
+        840
+      ]
+    },
+    {
+      "numero": 58366,
+      "nom": "Activité Partielle de Longue Durée (APLD)",
+      "resume": "<p>Ce dispositif est destiné à assurer le maintien dans l’emploi dans les entreprises confrontées à une réduction d’activité durable qui n’est pas de nature à compromettre leur pérennité.</p>",
+      "organisme": 20,
+      "sigle": "DREETS",
+      "revision": "33.43",
+      "generation": "2020-08-11",
+      "validation": "2023-02-01",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/WDZvIHxkwmxD4y8XJzVH/dreets/activite-partielle-de-longue-duree-apld.html",
+      "aps": false,
+      "domaines": [
+        893,
+        877,
+        816
+      ],
+      "moyens": [
+        840
+      ]
+    },
+    {
+      "numero": 68632,
+      "nom": "Booster Entreprises Eco-Energie Tertiaire",
+      "resume": "<p>Le dispositif Booster Entreprises Eco-Energie Tertiaire vise à réduire la facture énergétique des entreprises et gagner en valeur verte.</p>",
+      "organisme": 46,
+      "sigle": "ADEME",
+      "revision": "1.06",
+      "generation": "2022-11-22",
+      "validation": "2023-02-01",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/aGMvIHxkwmxD4y8XJzVH/ademe/booster-entreprises-eco-energie-tertiaire.html",
+      "aps": false,
+      "domaines": [
+        893,
+        802,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 69026,
+      "nom": "AMI - \"Accélérer la transition alimentaire\"",
+      "resume": "<p>Dans le cadre du plan de relance, la Banque des Territoires se mobilise pour accélérer la transition vers des systèmes alimentaires durables et résilients.</p>",
+      "organisme": 2025,
+      "sigle": "Caisse des Dépôts",
+      "revision": "1.00",
+      "generation": "2023-01-24",
+      "validation": "2023-01-26",
+      "nouveau": true,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/aQJvIHxkwmxD4y8XJzVH/caisse-des-depots/ami-accelerer-la-transition-alimentaire.html",
+      "aps": false,
+      "domaines": [
+        802,
+        813,
+        820
+      ],
+      "moyens": [
+        827
+      ]
+    },
+    {
+      "numero": 60505,
+      "nom": "Tremplin pour la transition écologique des PME",
+      "resume": "<p>Tremplin pour la transition écologique des PME est le guichet d'aides de l’ADEME, il s'inscrit dans le cadre de France Relance et du dispositif EETE (Entreprises Engagées pour la Transition Ecologique) de l’ADEME.</p>",
+      "organisme": 46,
+      "sigle": "ADEME",
+      "revision": "5.53",
+      "generation": "2021-02-01",
+      "validation": "2023-01-20",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/YFBfIHxkwmxD4y8XJzVH/ademe/tremplin-pour-la-transition-ecologique-des-pme.html",
+      "aps": false,
+      "domaines": [
+        788,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 58894,
+      "nom": "Crédit d'impôt pour la rénovation énergétique des locaux des TPE et PME",
+      "resume": "<p>Ce crédit d’impôt vise à soutenir les professionnels pour la rénovation énergétique de leurs bâtiments à usage tertiaire.</p>",
+      "organisme": 29,
+      "sigle": "DDFIP",
+      "revision": "7.39",
+      "generation": "2020-10-08",
+      "validation": "2023-01-09",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/WIlPIHxkwmxD4y8XJzVH/ddfip/credit-d-impot-pour-la-renovation-energetique-des-locaux-des-tpe-et-pme.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        845
+      ]
+    },
+    {
+      "numero": 51779,
+      "nom": "Appel à projets PERFECTO - Démarche d’écoconception dans un projet de R&D",
+      "resume": "<p>L’ADEME soutient les entreprises qui souhaitent mettre en œuvre une démarche d’écoconception dans leur projet de R&D pour améliorer la performance environnementale du produit, service, procédé développé.</p>",
+      "organisme": 46,
+      "sigle": "ADEME",
+      "revision": "6.37",
+      "generation": "2018-10-19",
+      "validation": "2022-11-29",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/UXefIHxkwmxD4y8XJzVH/ademe/appel-a-projets-perfecto-demarche-d-ecoconception-dans-un-projet-de-r-d.html",
+      "aps": false,
+      "domaines": [
+        807,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 32976,
+      "nom": "Prêt Croissance",
+      "resume": "<p>Le Prêt Croissance soutient les projets d'investissements ou de croissance externe des entreprises.</p>",
+      "organisme": 6,
+      "sigle": "Bpifrance",
+      "revision": "2.12",
+      "generation": "2014-01-29",
+      "validation": "2022-11-10",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/MpdvIHxkwmxD4y8XJzVH/bpifrance/pret-croissance.html",
+      "aps": false,
+      "domaines": [
+        802,
+        805,
+        813,
+        816
+      ],
+      "moyens": [
+        827
+      ]
+    },
+    {
+      "numero": 68509,
+      "nom": "Prêt Action Climat",
+      "resume": "<p>Le Prêt Action Climat de Bpifrance vise à accompagner les entreprises dans leurs projets de transition écologique et énergétique.</p>",
+      "organisme": 6,
+      "sigle": "Bpifrance",
+      "revision": "1.08",
+      "generation": "2022-11-04",
+      "validation": "2022-11-04",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/aFCfIHxkwmxD4y8XJzVH/bpifrance/pret-action-climat.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        827
+      ]
+    },
+    {
+      "numero": 49254,
+      "nom": "Aide pour le développement des installations géothermiques intermédiaires",
+      "resume": "<p>L'aide régionale au développement des installations géothermiques intermédiaires à pour but d'accompagner les maîtres d’ouvrage dans la réalisation d’investissements en faveur des énergies renouvelables, en particulier pour des projets géothermiques.</p>",
+      "organisme": 3520,
+      "sigle": "Région Occitanie",
+      "revision": "2.20",
+      "generation": "2018-06-29",
+      "validation": "2022-09-16",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/SSVPIHxkwmxD4y8XJzVH/region-occitanie/aide-pour-le-developpement-des-installations-geothermiques-intermediaires.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 16780,
+      "nom": "Fonds chaleur",
+      "resume": "<p>L'aide vise à soutenir les projets de production de chaleur à partir d'énergies renouvelables et de récupération d’énergie ainsi que les réseaux de chaleur liés à ces installations et dans certaines conditions la production de froid renouvelable.</p>",
+      "organisme": 46,
+      "sigle": "ADEME",
+      "revision": "3.05",
+      "generation": "2009-11-02",
+      "validation": "2022-09-16",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/FngPIHxkwmxD4y8XJzVH/ademe/fonds-chaleur.html",
+      "aps": false,
+      "domaines": [
+        802,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 23791,
+      "nom": "Prêt Eco-Energie (PEE)",
+      "resume": "<p>Le Prêt Eco-Energie (PEE) permet de financer les entreprises dans leur projet d’investissement s'inscrivant dans des enjeux de protection de l’environnement et d’économie d’énergie.</p>",
+      "organisme": 6,
+      "sigle": "Bpifrance",
+      "revision": "14.05",
+      "generation": "2012-02-03",
+      "validation": "2022-09-16",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/I3kfIHxkwmxD4y8XJzVH/bpifrance/pret-eco-energie-pee.html",
+      "aps": false,
+      "domaines": [
+        788,
+        802,
+        813
+      ],
+      "moyens": [
+        827
+      ]
+    },
+    {
+      "numero": 38531,
+      "nom": "Aide à la réalisation - Mise en œuvre des projets environnementaux",
+      "resume": "<p>Cette aide vise à soutenir la réalisation de projets environnementaux, principalement d'investissements, pour tout ou partie des différentes phases d'une opération.</p>",
+      "organisme": 46,
+      "sigle": "ADEME",
+      "revision": "2.11",
+      "generation": "2015-03-06",
+      "validation": "2022-09-16",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/OFMfIHxkwmxD4y8XJzVH/ademe/aide-a-la-realisation-mise-en-oeuvre-des-projets-environnementaux.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        827,
+        833
+      ]
+    },
+    {
+      "numero": 49255,
+      "nom": "Aide régionale au développement des installations solaires thermiques",
+      "resume": "<p>L'aide régionale au développement des installations solaires thermiques à pour but d'accompagner les maîtres d’ouvrage dans la réalisation d’investissements en faveur des énergies renouvelables et en particulier pour des projets solaires thermiques</p>",
+      "organisme": 3520,
+      "sigle": "Région Occitanie",
+      "revision": "2.04",
+      "generation": "2018-06-29",
+      "validation": "2022-09-16",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/SSVfIHxkwmxD4y8XJzVH/region-occitanie/aide-regionale-au-developpement-des-installations-solaires-thermiques.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 58753,
+      "nom": "Prêt Vert - Ademe",
+      "resume": "<p>Le Prêt Vert Ademe a pour objectif de financer les investissements des entreprises qui souhaitent engager un projet de transition écologique et énergétique.</p>",
+      "organisme": 6,
+      "sigle": "Bpifrance",
+      "revision": "9.04",
+      "generation": "2020-09-22",
+      "validation": "2022-09-16",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/WHU_IHxkwmxD4y8XJzVH/bpifrance/pret-vert-ademe.html",
+      "aps": false,
+      "domaines": [
+        788,
+        813
+      ],
+      "moyens": [
+        827
+      ]
+    },
+    {
+      "numero": 59640,
+      "nom": "Prime solaire : aide à l’installation d’énergies renouvelables",
+      "resume": "<p>Dans le cadre du Plan de Relance, Toulouse Métropole soutient les entreprises de son territoire dans l'accélération à la transition énergétique et écologique avec la mise en place d'une aide financière pour soutenir l’artisanat local et le secteur du bâtiment.</p>",
+      "organisme": 1669,
+      "sigle": "Toulouse Métropole",
+      "revision": "4.16",
+      "generation": "2020-11-10",
+      "validation": "2022-09-16",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/WWQPIHxkwmxD4y8XJzVH/toulouse-metropole/prime-solaire-aide-a-l-installation-d-energies-renouvelables.html",
+      "aps": false,
+      "domaines": [
+        788,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 63046,
+      "nom": "Prime CEE (Certificats d’économies d’énergie)",
+      "resume": "<p>L’État a instauré les Certificats d’Économies d’Énergie afin d'obliger les fournisseurs d’énergie et de carburant à aider les consommateurs à réaliser des économies d’énergie. Une prime CEE est mise en place.</p>",
+      "organisme": 2028,
+      "sigle": "Ministère de la Transition Ecologique et Solidaire",
+      "revision": "2.03",
+      "generation": "2021-08-03",
+      "validation": "2022-09-16",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/YwRvIHxkwmxD4y8XJzVH/ministere-de-la-transition-ecologique-et-solidaire/prime-cee-certificats-d-economies-d-energie.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 67644,
+      "nom": "Dispositif d’aides pour le désamiantage des toitures en cas de solarisation",
+      "resume": "<p>Ce dispositif a pour objectif d’accompagner les propriétaires de bâtiments ayant des toitures amiantées à procéder à leur dépollution et à la mise en place d’une installation photovoltaïque.</p>",
+      "organisme": 3520,
+      "sigle": "Région Occitanie",
+      "revision": "1.00",
+      "generation": "2022-07-08",
+      "validation": "2022-07-26",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/Z2RPIHxkwmxD4y8XJzVH/region-occitanie/dispositif-d-aides-pour-le-desamiantage-des-toitures-en-cas-de-solarisation.html",
+      "aps": false,
+      "domaines": [
+        802,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 67122,
+      "nom": "Aide aux investissements - développement des réseaux de chaleur et de froid",
+      "resume": "<p>La Région Occitanie agit en faveur des énergies renouvelables grâce au soutien des projets de chaufferies automatiques biomasse énergie et réseaux de chaleur.</p>",
+      "organisme": 3520,
+      "sigle": "Région Occitanie",
+      "revision": "1.04",
+      "generation": "2022-05-20",
+      "validation": "2022-05-23",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/ZxIvIHxkwmxD4y8XJzVH/region-occitanie/aide-aux-investissements-developpement-des-reseaux-de-chaleur-et-de-froid.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 67124,
+      "nom": "Aide aux études - développement des chaufferies biomasse énergie",
+      "resume": "<p>La Région Occitanie agit en faveur des énergies renouvelables grâce au soutien des projets de chaufferies automatiques biomasse énergie et réseaux de chaleur.</p>",
+      "organisme": 3520,
+      "sigle": "Région Occitanie",
+      "revision": "1.01",
+      "generation": "2022-05-20",
+      "validation": "2022-05-23",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/ZxJPIHxkwmxD4y8XJzVH/region-occitanie/aide-aux-etudes-developpement-des-chaufferies-biomasse-energie.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 67121,
+      "nom": "Aide aux études - développement des réseaux de chaleur et de froid",
+      "resume": "<p>La Région Occitanie agit en faveur des énergies renouvelables grâce au soutien des projets de chaufferies automatiques biomasse énergie et réseaux de chaleur.</p>",
+      "organisme": 3520,
+      "sigle": "Région Occitanie",
+      "revision": "1.05",
+      "generation": "2022-05-20",
+      "validation": "2022-05-23",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/ZxIfIHxkwmxD4y8XJzVH/region-occitanie/aide-aux-etudes-developpement-des-reseaux-de-chaleur-et-de-froid.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 67123,
+      "nom": "Aide aux investissements - développement des chaufferies biomasse énergie",
+      "resume": "<p>La Région Occitanie agit en faveur des énergies renouvelables grâce au soutien des projets de chaufferies automatiques biomasse énergie et réseaux de chaleur.</p>",
+      "organisme": 3520,
+      "sigle": "Région Occitanie",
+      "revision": "1.03",
+      "generation": "2022-05-20",
+      "validation": "2022-05-23",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/ZxI_IHxkwmxD4y8XJzVH/region-occitanie/aide-aux-investissements-developpement-des-chaufferies-biomasse-energie.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 66875,
+      "nom": "Aide à la restauration et gestion des milieux, habitats et écosystèmes",
+      "resume": "<p>L'ensemble des actions accompagnées par l’Agence font partie des solutions fondées sur la nature contribuant à l’adaptation des milieux face au changement climatique.</p>",
+      "organisme": 278,
+      "sigle": "AGENCE DE L'EAU ADOUR GARONNE",
+      "revision": "1.03",
+      "generation": "2022-05-02",
+      "validation": "2022-05-02",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/ZodfIHxkwmxD4y8XJzVH/agence-de-l-eau-adour-garonne/aide-a-la-restauration-et-gestion-des-milieux-habitats-et-ecosystemes.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 66816,
+      "nom": "Etudes et recherche, innovation et connaissances environnementales",
+      "resume": "<p>Le domaine d’intervention concerne les opérations permettant de garantir, de manière pérenne, une eau potable de qualité distribuée à l’usager et de favoriser l’organisation des acteurs.</p>",
+      "organisme": 278,
+      "sigle": "AGENCE DE L'EAU ADOUR GARONNE",
+      "revision": "1.05",
+      "generation": "2022-04-28",
+      "validation": "2022-04-28",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/ZoFvIHxkwmxD4y8XJzVH/agence-de-l-eau-adour-garonne/etudes-et-recherche-innovation-et-connaissances-environnementales.html",
+      "aps": false,
+      "domaines": [
+        802,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 66811,
+      "nom": "Aide à la protection de l'eau potable",
+      "resume": "<p>L'aide garantit, de manière pérenne, une eau potable de qualité distribuée à l’usager et de favoriser l’organisation des acteurs à la bonne échelle pour permettre la mobilisation des moyens techniques et financiers adaptés aux enjeux.</p>",
+      "organisme": 278,
+      "sigle": "AGENCE DE L'EAU ADOUR GARONNE",
+      "revision": "1.10",
+      "generation": "2022-04-27",
+      "validation": "2022-04-28",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/ZoEfIHxkwmxD4y8XJzVH/agence-de-l-eau-adour-garonne/aide-a-la-protection-de-l-eau-potable.html",
+      "aps": false,
+      "domaines": [
+        805,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 66775,
+      "nom": "Réduire les pollutions des activités industrielles et artisanales",
+      "resume": "<p>Le domaine d’intervention concerne les opérations relevant d’activités économiques à caractère industriel, commercial et artisanal.</p>",
+      "organisme": 278,
+      "sigle": "AGENCE DE L'EAU ADOUR GARONNE",
+      "revision": "1.10",
+      "generation": "2022-04-25",
+      "validation": "2022-04-25",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/ZndfIHxkwmxD4y8XJzVH/agence-de-l-eau-adour-garonne/reduire-les-pollutions-des-activites-industrielles-et-artisanales.html",
+      "aps": false,
+      "domaines": [
+        802,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 49305,
+      "nom": "Pass Occitanie",
+      "resume": "<p>Le Pass Occitanie vise à soutenir les entreprises dans leurs projets de croissance d'activité.</p>",
+      "organisme": 3520,
+      "sigle": "Région Occitanie",
+      "revision": "10.12",
+      "generation": "2018-07-03",
+      "validation": "2022-04-12",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/STBfIHxkwmxD4y8XJzVH/region-occitanie/pass-occitanie.html",
+      "aps": false,
+      "domaines": [
+        802,
+        807,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 38532,
+      "nom": "Aide au changement de comportement pour la protection de l'environnement",
+      "resume": "<p>L'aide au changement de comportement pour la protection de l'environnement de l'ADEME soutient des opérations destinées à faire évoluer les mentalités et comportements, ainsi que les actes d'achats et d'investissement en matière environnementale.</p>",
+      "organisme": 46,
+      "sigle": "ADEME",
+      "revision": "1.20",
+      "generation": "2015-03-06",
+      "validation": "2022-03-30",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/OFMvIHxkwmxD4y8XJzVH/ademe/aide-au-changement-de-comportement-pour-la-protection-de-l-environnement.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 38530,
+      "nom": "Aide à la réalisation - études de diagnostic et d’accompagnement de projets",
+      "resume": "<p>L'aide à la décision de l'ADEME soutient la réalisation de projets environnementaux en aidant à la décision grâce à des études préalables.</p>",
+      "organisme": 46,
+      "sigle": "ADEME",
+      "revision": "3.08",
+      "generation": "2015-03-06",
+      "validation": "2022-03-29",
+      "nouveau": false,
+      "implantation": "N",
+      "uri": "https://les-aides.fr/aide/OFMPIHxkwmxD4y8XJzVH/ademe/aide-a-la-realisation-etudes-de-diagnostic-et-d-accompagnement-de-projets.html",
+      "aps": false,
+      "domaines": [
+        813
+      ],
+      "moyens": [
+        827,
+        833
+      ]
+    },
+    {
+      "numero": 65721,
+      "nom": "Prêt Relance Occitanie",
+      "resume": "<p>En partenariat avec Bpifrance, la Région Occitanie met en place le Prêt Relance Occitanie qui vise à accompagner la relance des TPE et PME de la région.</p>",
+      "organisme": 3520,
+      "sigle": "Région Occitanie",
+      "revision": "1.21",
+      "generation": "2022-02-01",
+      "validation": "2022-02-01",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/ZXIfIHxkwmxD4y8XJzVH/region-occitanie/pret-relance-occitanie.html",
+      "aps": false,
+      "domaines": [
+        788,
+        802,
+        813,
+        816
+      ],
+      "moyens": [
+        827
+      ]
+    },
+    {
+      "numero": 59642,
+      "nom": "Prime vélo",
+      "resume": "<p>Dans le cadre du Plan de Relance, Toulouse Métropole soutient les entreprises de son territoire qui souhaitent développer la résilience et accélérer leur transition énergétique et écologique à travers la prime vélo, une aide à la mobilité durable.</p>",
+      "organisme": 1669,
+      "sigle": "Toulouse Métropole",
+      "revision": "5.09",
+      "generation": "2020-11-10",
+      "validation": "2021-11-19",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/WWQvIHxkwmxD4y8XJzVH/toulouse-metropole/prime-velo.html",
+      "aps": false,
+      "domaines": [
+        788,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 59641,
+      "nom": "Prime véhicule + propre",
+      "resume": "<p>Toulouse Métropole soutient les professionnels et les associations de son territoire pour le remplacement d’un véhicule polluant par un véhicule peu émissif à travers la prime véhicule + propre.</p>",
+      "organisme": 1669,
+      "sigle": "Toulouse Métropole",
+      "revision": "7.10",
+      "generation": "2020-11-10",
+      "validation": "2021-11-19",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/WWQfIHxkwmxD4y8XJzVH/toulouse-metropole/prime-vehicule-propre.html",
+      "aps": false,
+      "domaines": [
+        788,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 54577,
+      "nom": "Économie circulaire et déchets : Aide à l'animation d'actions collectives",
+      "resume": "<p>L'aide à l'animation d'actions collectives en matière d'économie circulaire et de déchets a pour objectif de soutenir l’animation d’actions collectives de dimension régionale et locales et les missions d’observation régionale.</p>",
+      "organisme": 3520,
+      "sigle": "Région Occitanie",
+      "revision": "6.08",
+      "generation": "2019-06-19",
+      "validation": "2021-07-20",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/VFd_IHxkwmxD4y8XJzVH/region-occitanie/economie-circulaire-et-dechets-aide-a-l-animation-d-actions-collectives.html",
+      "aps": false,
+      "domaines": [
+        802,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    },
+    {
+      "numero": 54606,
+      "nom": "Économie circulaire et déchets : Aide à la réalisation de projets locaux",
+      "resume": "<p>L'aide à la réalisation de projets locaux en matière d'économie circulaire et de déchets a pour objectif d'accompagner les acteurs locaux dans leurs projets de prévention, gestion, valorisation des déchets et de développement de l’économie circulaire.</p>",
+      "organisme": 3520,
+      "sigle": "Région Occitanie",
+      "revision": "4.08",
+      "generation": "2019-06-21",
+      "validation": "2021-07-20",
+      "nouveau": false,
+      "implantation": "T",
+      "uri": "https://les-aides.fr/aide/VGBvIHxkwmxD4y8XJzVH/region-occitanie/economie-circulaire-et-dechets-aide-a-la-realisation-de-projets-locaux.html",
+      "aps": false,
+      "domaines": [
+        802,
+        813
+      ],
+      "moyens": [
+        833
+      ]
+    }
+  ],
+  "date": "2023-03-03 16:30:11",
+  "etablissement": {
+    "siret": "84874656600019",
+    "raison_sociale": "SSP - SUSTAINABLE SOLUTIONS PROVIDER",
+    "siege_social": true,
+    "adresse": "SSP - SUSTAINABLE SOLUTIONS PROVIDER\n2 RUE D AUSTERLITZ\n31000 TOULOUSE\nFRANCE",
+    "code_postal": "31000",
+    "commune": "Toulouse",
+    "etat": "actif",
+    "ape": {
+      "code": "7022Z",
+      "libelle": "Conseil pour les affaires et autres conseils de gestion"
+    },
+    "activite": {
+      "number": 6,
+      "label": "Services aux entreprises"
+    },
+    "date_creation": "2019-02-11",
+    "forme_juridique": {
+      "numero": 92,
+      "libelle": "SAS, société par actions simplifiée"
+    },
+    "tranche_effectif": {
+      "numero": 0,
+      "libelle": "0 salarié"
+    },
+    "active": true,
+    "rue": "2 RUE D AUSTERLITZ",
+    "nom": null,
+    "prenom": null
+  }
+}
